@@ -3,6 +3,8 @@ A project to improve Minecraft's QOL features without being too OP.
 
 Cobbled together with love by Aethiriat Games.
 
+https://modrinth.com/modpack/playzbetter
+
 
 ## Full List of Mods and Datapacks
 - Appleskin (MOD)
