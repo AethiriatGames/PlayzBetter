@@ -21,6 +21,7 @@ A project to improve Minecraft's QOL features without being too OP.
 - ModMenu (MOD)
 - NoChatReports (MOD)
 - Reese's Sodium Options (MOD)
+- Silk (MOD)
 - Sodium (MOD)
 - Sodium Extra (MOD)
 - Status Effect Bars (MOD)
